@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "iotool"
-version = "0.1.0"
+version = "0.2.0"
 description = ""
 authors = ["Tlaloc-Es <dev@tlaloc-es.com>"]
 license = "https://github.com/Tlaloc-Es/iotool/blob/master/LICENSE.txt"
@@ -30,7 +30,7 @@ requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
 
 [tool.commitizen]
-version = "2.0.0"
+version = "0.2.0"
 version_files = [
     "pyproject.toml:^version"
 ]
