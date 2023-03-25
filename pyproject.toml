@@ -1,16 +1,16 @@
 [tool.poetry]
-name = "ioutils"
+name = "iotool"
 version = "0.1.0"
 description = ""
 authors = ["Tlaloc-Es <dev@tlaloc-es.com>"]
-license = "https://github.com/Tlaloc-Es/ioutils/blob/master/LICENSE.txt"
-homepage = "https://github.com/Tlaloc-Es/ioutils"
-repository = "https://github.com/Tlaloc-Es/ioutils"
-packages = [{include = "ioutils"}]
+license = "https://github.com/Tlaloc-Es/iotool/blob/master/LICENSE.txt"
+homepage = "https://github.com/Tlaloc-Es/iotool"
+repository = "https://github.com/Tlaloc-Es/iotool"
+packages = [{include = "iotool"}]
 readme = "README.md"
 
 [tool.poetry.urls]
-"Bug Tracker" = "https://github.com/Tlaloc-Es/ioutils/issues"
+"Bug Tracker" = "https://github.com/Tlaloc-Es/iotool/issues"
 
 [tool.poetry.dependencies]
 python = "^3.10"
